@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e1cf65935848eb344a3ef978167953de
+timeCreated: 1480507482
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Istok
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 776295f8522effc4b959cd53a2df2c70, type: 3}
+  - {fileID: 12800000, guid: 22f59ceacbc372b438e6c09ee86c63ff, type: 3}
+  - {fileID: 12800000, guid: 7f5fc68b2bcc25343a6064bac00065f9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

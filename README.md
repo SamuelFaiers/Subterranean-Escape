@@ -8,7 +8,7 @@ My roles:
 - Create some of the 3D assets
 - Design and develop gameplay features such as climbing
 
-Scripts I wrote:
+Scripts I wrote (assets > scripts):
 - Climb.cs
 - Interact.cs (specifically the 'CollectKey()' function)
 - PauseGame.cs
